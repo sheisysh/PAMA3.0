@@ -1,0 +1,123 @@
+
+Surface Patch Count: 145
+
+Interface Patch Count: 85
+
+Rank: 1
+patch1
+55 VAL A
+56 GLU A
+116 GLY A
+patch2
+189 VAL A
+186 THR A
+188 GLY A
+187 ARG A
+patch3
+173 THR A
+174 GLY A
+171 CYS A
+172 PRO A
+175 HIS A
+125 CYS A
+patch4
+115 GLN A
+114 PRO A
+116 GLY A
+117 SER A
+93 PRO A
+patch5
+94 LYS A
+93 PRO A
+92 SER A
+95 GLY A
+
+Surface Patch Count: 171
+
+Interface Patch Count: 108
+
+Rank: 1
+patch1
+28 PRO B
+29 ILE B
+30 THR B
+patch2
+29 ILE B
+30 THR B
+28 PRO B
+139 VAL B
+31 ALA B
+patch3
+137 ALA B
+32 TYR B
+31 ALA B
+33 ALA B
+34 GLN B
+patch4
+187 ARG B
+188 GLY B
+186 THR B
+189 VAL B
+patch5
+35 GLN B
+34 GLN B
+36 THR B
+61 ILE B
+37 ARG B
+38 GLY B
+
+Surface Patch Count: 16
+
+Interface Patch Count: 16
+
+Rank: 1
+patch1
+21 GLY C
+22 SER C
+patch2
+29 ILE C
+28 ARG C
+30 VAL C
+31 LEU C
+patch3
+28 ARG C
+27 GLY C
+29 ILE C
+25 ILE C
+patch4
+36 ALA C
+35 PRO C
+34 LYS C
+patch5
+23 VAL C
+22 SER C
+24 VAL C
+25 ILE C
+
+Surface Patch Count: 14
+
+Interface Patch Count: 14
+
+Rank: 1
+patch1
+35 PRO D
+34 LYS D
+36 ALA D
+patch2
+20 LYS D
+21 GLY D
+22 SER D
+patch3
+20 LYS D
+21 GLY D
+22 SER D
+patch4
+40 LYS D
+39 PRO D
+38 ILE D
+patch5
+20 LYS D
+22 SER D
+21 GLY D
+23 VAL D
+24 VAL D

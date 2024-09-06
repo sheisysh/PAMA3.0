@@ -1,0 +1,134 @@
+
+Surface Patch Count: 399
+
+Interface Patch Count: 258
+
+Rank: 1
+patch1
+345 SER A
+344 ALA A
+342 ARG A
+343 ARG A
+346 PHE A
+patch2
+113 GLU A
+108 GLY A
+110 THR A
+109 ASP A
+patch3
+420 LYS A
+419 ASN A
+421 SER A
+385 ARG A
+418 VAL A
+patch4
+59 PHE A
+58 GLN A
+57 ASP A
+60 GLY A
+patch5
+419 ASN A
+418 VAL A
+417 ILE A
+420 LYS A
+
+Surface Patch Count: 398
+
+Interface Patch Count: 257
+
+Rank: 1
+patch1
+344 ALA B
+343 ARG B
+345 SER B
+342 ARG B
+346 PHE B
+patch2
+113 GLU B
+110 THR B
+109 ASP B
+108 GLY B
+patch3
+420 LYS B
+419 ASN B
+421 SER B
+385 ARG B
+418 VAL B
+patch4
+59 PHE B
+58 GLN B
+60 GLY B
+57 ASP B
+patch5
+417 ILE B
+419 ASN B
+418 VAL B
+420 LYS B
+
+Surface Patch Count: 396
+
+Interface Patch Count: 256
+
+Rank: 2
+patch1
+109 ASP C
+113 GLU C
+110 THR C
+108 GLY C
+patch2
+419 ASN C
+420 LYS C
+421 SER C
+385 ARG C
+418 VAL C
+patch3
+58 GLN C
+57 ASP C
+59 PHE C
+60 GLY C
+patch4
+417 ILE C
+419 ASN C
+418 VAL C
+420 LYS C
+patch5
+58 GLN C
+59 PHE C
+57 ASP C
+60 GLY C
+236 GLU C
+305 TRP C
+
+Surface Patch Count: 397
+
+Interface Patch Count: 256
+
+Rank: 2
+patch1
+113 GLU D
+108 GLY D
+110 THR D
+109 ASP D
+patch2
+420 LYS D
+419 ASN D
+421 SER D
+385 ARG D
+418 VAL D
+patch3
+58 GLN D
+57 ASP D
+60 GLY D
+59 PHE D
+patch4
+419 ASN D
+418 VAL D
+417 ILE D
+420 LYS D
+patch5
+59 PHE D
+58 GLN D
+57 ASP D
+60 GLY D
+305 TRP D
+236 GLU D
